@@ -39,3 +39,9 @@ http://jp.hyyeo.p-e.kr/index.php
 http://ai.hyyeo.p-e.kr/index.php
 http://172.233.228.93/policy
 http://172.233.228.93/patch
+http://41.216.183.31/login
+http://94.103.91.246/incrementLaunch
+http://94.103.91.246/addInfection 
+http://94.103.91.246/victimchat?id=[EncryptionID]
+http://94.103.91.246/login?next=
+http://94.103.91.246/upload
