@@ -37,3 +37,5 @@ http://aa.olixa.p-e.kr/index.php
 http://uo.zosua.o-r.kr/index.php
 http://jp.hyyeo.p-e.kr/index.php
 http://ai.hyyeo.p-e.kr/index.php
+http://172.233.228.93/policy
+http://172.233.228.93/patch
